@@ -4,7 +4,7 @@ import pandas
 import datetime as dt
 
 my_email = "carduibot@gmail.com"
-password = "ydffosgveywfvfrr"
+password = ""
 
 now = dt.datetime.now()
 all_data = pandas.read_csv("birthdays.csv")
